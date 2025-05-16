@@ -40,7 +40,7 @@ Aplikasi ini hanya berupa **form pengisian biodata mahasiswa** sesuai dengan tug
 ## Demo Program
 
 
-[Video Demo nya](media/demo.mp4)
+[Liat Demo nya via Google Drive ya soalnya kegedean hehe](https://drive.google.com/file/d/1G9GMkcEUGa8IB0V-bXeMhddNIfYYRaua/view?usp=drive_link)
 
 ---
 
