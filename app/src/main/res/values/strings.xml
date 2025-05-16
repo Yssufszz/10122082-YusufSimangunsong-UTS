@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biodata Mahasiswa</string>
+    <string name="title_form">FORM BIODATA MAHASISWA</string>
+    <string name="hint_nim">Nomor Induk Mahasiswa (NIM)</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_ttl">Tempat dan Tanggal Lahir</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="gender_male">Laki-laki</string>
+    <string name="gender_female">Perempuan</string>
+    <string name="hint_prodi">Program Studi</string>
+    <string name="hint_alamat">Alamat Lengkap</string>
+    <string name="btn_tampil">TAMPIL DATA</string>
+    <string name="btn_hapus">HAPUS DATA</string>
+    <string name="btn_kembali">KEMBALI</string>
+    <string name="title_display">BIODATA MAHASISWA</string>
+    <string name="label_nim">Nomor Induk Mahasiswa</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="label_ttl">Tempat dan Tanggal Lahir</string>
+    <string name="label_prodi">Program Studi</string>
+    <string name="label_alamat">Alamat Lengkap</string>
+    <string name="footer_text">© 2025 Biodata Mahasiswa App</string>
+</resources>
